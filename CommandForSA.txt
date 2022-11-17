@@ -1,0 +1,1 @@
+python SimulatedAnnealing.py "Formula_One_1984.wmg", 100000, 80, 0.95, 5000
